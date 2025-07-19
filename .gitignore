@@ -3,6 +3,12 @@
 */_BAK*
 x64/*
 
+*/Debug/*
+*/Release/*
+*/x64_v140/*
+*/x64_v142/*
+*/x64_vc11/*
+
 # cmake
 build/*
 
