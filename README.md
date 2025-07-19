@@ -12,8 +12,7 @@ https://github.com/ianpatt/common
   
 --------------------------------  
   
-Note:  
-Checkout or Rename "xSE-Common" to "common" in the working directory. The structure should be similar to this:  
+Note: Checkout or Rename "xSE-Common" to "common" in the working directory. The structure should be similar to this:  
 Common  
 ..\Working Folder  
 ..\Working Folder\common  
