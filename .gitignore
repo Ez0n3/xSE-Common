@@ -1,7 +1,13 @@
 *.lnk
 *.bak*
 */_BAK*
+_BAK
+_BAK/*
+
+*/x64*
+x64
 x64/*
+*/x64/*
 
 */Debug/*
 */Release/*
