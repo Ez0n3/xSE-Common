@@ -5,8 +5,12 @@ Description:
 Common files for ianpatt's ScriptExtender, required for making SE plugins.  
 Built using Visual Studio 2022.  
   
+--------------------------------  
+  
 The original common repo can be found here:  
 https://github.com/ianpatt/common  
+  
+--------------------------------  
   
 Note:  
 Checkout or Rename "xSE-Common" to "common" in the working directory. The structure should be similar to this:  
@@ -28,6 +32,8 @@ Skyrim Special Edition
 ..\Working Folder\skse64\skse64_plugins  
   
 Etc...  
+  
+--------------------------------  
   
 Contact:  
 https://www.moddb.com/members/ez0n3  
